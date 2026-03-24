@@ -52,7 +52,7 @@
     }
   ],
   "premium_packs": [
-     {
+    {
       "pack_id": "pack_dark_pixel_01",
       "pack_name": "Dark Pixel Vibe",
       "pack_subtitle": "Deep AMOLED blacks & neon",
@@ -88,6 +88,65 @@
           "id": "dark_06",
           "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/dark_06.png",
           "color_hex": "#1b1b1b"
+        }
+      ]
+    },
+    {
+      "pack_id": "pack_fluid_shapes",
+      "pack_name": "Fluid Shapes Vibe",
+      "pack_subtitle": "Organic Material You tones",
+      "cover_url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/shapes_10.png",
+      "color_hex": "#926830",
+      "wallpapers": [
+        {
+          "id": "shapes_01",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/shapes_01.png",
+          "color_hex": "#D16279"
+        },
+        {
+          "id": "shapes_02",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/shapes_02.png",
+          "color_hex": "#4A90E2"
+        },
+        {
+          "id": "shapes_03",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/shapes_03.png",
+          "color_hex": "#50E3C2"
+        },
+        {
+          "id": "shapes_04",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/shapes_04.png",
+          "color_hex": "#F5A623"
+        },
+        {
+          "id": "shapes_05",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/shapes_05.png",
+          "color_hex": "#9B51E0"
+        },
+        {
+          "id": "shapes_06",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/shapes_06.png",
+          "color_hex": "#596C7A"
+        },
+        {
+          "id": "shapes_07",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/shapes_07.png",
+          "color_hex": "#482121"
+        },
+        {
+          "id": "shapes_08",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/shapes_08.png",
+          "color_hex": "#30305C"
+        },
+        {
+          "id": "shapes_09",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/shapes_09.png",
+          "color_hex": "#10322D"
+        },
+        {
+          "id": "shapes_10",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/shapes_10.png",
+          "color_hex": "#4D2C12"
         }
       ]
     }
