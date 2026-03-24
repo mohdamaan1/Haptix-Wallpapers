@@ -1,15 +1,5 @@
 {
   "free_wallpapers": [
-  {
-      "id": "abstract01",
-      "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/abstract01.png",
-      "color_hex": "#8C6A1D"
-    },
-    {
-      "id": "abstract02",
-      "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/sabstract02.jpg",
-      "color_hex": "#8C6A1D"
-    },
     {
       "id": "shapes_001",
       "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/shapes_001.png",
