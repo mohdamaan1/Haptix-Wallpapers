@@ -149,6 +149,65 @@
           "color_hex": "#4D2C12"
         }
       ]
+    },
+    {
+      "pack_id": "pack_lumina_blend",
+      "pack_name": "Lumina Blend",
+      "pack_subtitle": "Neon blooms & vivid doodles",
+      "cover_url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/doodle_003.png",
+      "color_hex": "#A30F8E",
+      "wallpapers": [
+        {
+          "id": "doodle_001",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/doodle_001.png",
+          "color_hex": "#3100A5"
+        },
+        {
+          "id": "doodle_002",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/doodle_002.png",
+          "color_hex": "#1A4321"
+        },
+        {
+          "id": "doodle_003",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/doodle_003.png",
+          "color_hex": "#A30F8E"
+        },
+        {
+          "id": "doodle_004",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/doodle_004.png",
+          "color_hex": "#004F11"
+        },
+        {
+          "id": "shape_0001",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/shape_0001.png",
+          "color_hex": "#E0DF1D"
+        },
+        {
+          "id": "shape_0002",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/shape_0002.png",
+          "color_hex": "#26A911"
+        },
+        {
+          "id": "shape_0003",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/shape_0003.png",
+          "color_hex": "#1B20A1"
+        },
+        {
+          "id": "shape_0004",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/shape_0004.png",
+          "color_hex": "#A216A6"
+        },
+        {
+          "id": "shape_0005",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/shape_0005.png",
+          "color_hex": "#E80A77"
+        },
+        {
+          "id": "shape_0006",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/shape_0006.png",
+          "color_hex": "#141011"
+        }
+      ]
     }
   ]
 }
