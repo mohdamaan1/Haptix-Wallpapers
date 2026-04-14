@@ -208,6 +208,90 @@
           "color_hex": "#141011"
         }
       ]
+    },
+    {
+      "pack_id": "pack_tactile_patterns",
+      "pack_name": "Tactile Patterns",
+      "pack_subtitle": "Rich textures & natural gradients",
+      "cover_url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/pattern0015.jpg",
+      "color_hex": "#846E56",
+      "wallpapers": [
+        {
+          "id": "pattern_001",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/pattern001.jpg",
+          "color_hex": "#C59B76"
+        },
+        {
+          "id": "pattern_002",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/pattern002.jpg",
+          "color_hex": "#E3C2B0"
+        },
+        {
+          "id": "pattern_003",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/pattern003.jpg",
+          "color_hex": "#769784"
+        },
+        {
+          "id": "pattern_004",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/pattern004.jpg",
+          "color_hex": "#B17D6E"
+        },
+        {
+          "id": "pattern_005",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/pattern005.jpg",
+          "color_hex": "#505C6B"
+        },
+        {
+          "id": "pattern_006",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/pattern006.jpg",
+          "color_hex": "#C4C8D4"
+        },
+        {
+          "id": "pattern_007",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/pattern007.jpg",
+          "color_hex": "#726458"
+        },
+        {
+          "id": "pattern_008",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/pattern008.jpg",
+          "color_hex": "#556455"
+        },
+        {
+          "id": "pattern_009",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/pattern009.jpg",
+          "color_hex": "#6F8E9C"
+        },
+        {
+          "id": "pattern_0010",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/pattern0010.jpg",
+          "color_hex": "#B29C8B"
+        },
+        {
+          "id": "pattern_0011",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/pattern0011.jpg",
+          "color_hex": "#3A4F5A"
+        },
+        {
+          "id": "pattern_0012",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/pattern0012.jpg",
+          "color_hex": "#8A5C5C"
+        },
+        {
+          "id": "pattern_0013",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/pattern0013.jpg",
+          "color_hex": "#9DA796"
+        },
+        {
+          "id": "pattern_0014",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/pattern0014.jpg",
+          "color_hex": "#D4C7BA"
+        },
+        {
+          "id": "pattern_0015",
+          "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/pattern0015.jpg",
+          "color_hex": "#846E56"
+        }
+      ]
     }
   ]
 }
