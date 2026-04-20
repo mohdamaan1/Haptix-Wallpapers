@@ -1,5 +1,8 @@
 {
   "free_wallpapers": [
+    
+       { "id": "bubble_03", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/bubble03.jpg", "color_hex": "#040D3E" },
+
     {
       "id": "dark_04",
       "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/dark_04.png",
@@ -117,6 +120,22 @@
         { "id": "hhsb_03", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/hhsb03.png", "color_hex": "#63172E" },
         { "id": "hhsb_04", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/hhsb04.png", "color_hex": "#76426F" },
         { "id": "hhsb_05", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/hhsb05.png", "color_hex": "#E05A30" }
+      ]
+    },
+    {
+      "pack_id": "pack_glass_bubbles",
+      "pack_name": "Glass Bubbles",
+      "pack_subtitle": "Premium translucent spheres",
+      "cover_url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/bubble01.jpg",
+      "color_hex": "#0E3B09",
+      "wallpapers": [
+        { "id": "bubble_01", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/bubble01.jpg", "color_hex": "#0E3B09" },
+        { "id": "bubble_02", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/bubble02.jpg", "color_hex": "#300030" },
+        { "id": "bubble_03", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/bubble03.jpg", "color_hex": "#040D3E" },
+        { "id": "bubble_04", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/bubble04.jpg", "color_hex": "#2B1100" },
+        { "id": "bubble_05", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/bubble05.jpg", "color_hex": "#3A3605" },
+        { "id": "bubble_06", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/bubble06.jpg", "color_hex": "#0A0330" },
+        { "id": "bubble_07", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/bubble07.jpg", "color_hex": "#3B001F" }
       ]
     }
   ]
