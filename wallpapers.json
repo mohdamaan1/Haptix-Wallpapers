@@ -1,9 +1,10 @@
 {
   "free_wallpapers": [
-
-    
-            { "id": "bubble_05", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/bubble05.png", "color_hex": "#3A3605" },
-
+    {
+      "id": "bubble_05",
+      "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/bubble05.png",
+      "color_hex": "#3A3605"
+    },
     {
       "id": "dark_04",
       "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/dark_04.png",
@@ -28,6 +29,16 @@
       "id": "hhsb_04",
       "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/hhsb04.png",
       "color_hex": "#76426F"
+    },
+    {
+      "id": "Pattern01",
+      "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/Pattern01.png",
+      "color_hex": "#404040" 
+    },
+    {
+      "id": "kaak1",
+      "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/kaak1.png",
+      "color_hex": "#404040" 
     }
   ],
   "premium_packs": [
@@ -137,6 +148,40 @@
         { "id": "bubble_05", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/bubble05.png", "color_hex": "#3A3605" },
         { "id": "bubble_06", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/bubble06.png", "color_hex": "#0A0330" },
         { "id": "bubble_07", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/bubble07.png", "color_hex": "#3B001F" }
+      ]
+    },
+    {
+      "pack_id": "pack_abstract_patterns",
+      "pack_name": "Abstract Patterns",
+      "pack_subtitle": "Intricate geometric designs",
+      "cover_url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/Pattern01.png",
+      "color_hex": "#404040", 
+      "wallpapers": [
+        { "id": "Pattern01", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/Pattern01.png", "color_hex": "#404040" },
+        { "id": "Pattern02", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/Pattern02.png", "color_hex": "#404040" },
+        { "id": "Pattern03", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/Pattern03.png", "color_hex": "#404040" },
+        { "id": "Pattern04", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/Pattern04.png", "color_hex": "#404040" },
+        { "id": "Pattern05", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/Pattern05.png", "color_hex": "#404040" },
+        { "id": "Pattern06", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/Pattern06.png", "color_hex": "#404040" },
+        { "id": "Pattern07", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/Pattern07.png", "color_hex": "#404040" },
+        { "id": "Pattern08", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/Pattern08.png", "color_hex": "#404040" },
+        { "id": "Pattern09", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/Pattern09.png", "color_hex": "#404040" },
+        { "id": "Pattern10", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/Pattern10.png", "color_hex": "#404040" }
+      ]
+    },
+    {
+      "pack_id": "pack_kaak_vibes",
+      "pack_name": "KVibes",
+      "pack_subtitle": "Unique aesthetic textures",
+      "cover_url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/kaak1.png",
+      "color_hex": "#404040", 
+      "wallpapers": [
+        { "id": "kaak1", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/kaak1.png", "color_hex": "#404040" },
+        { "id": "kaak2", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/kaak2.png", "color_hex": "#404040" },
+        { "id": "kaak3", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/kaak3.png", "color_hex": "#404040" },
+        { "id": "kaak4", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/kaak4.png", "color_hex": "#404040" },
+        { "id": "kaak5", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/kaak5.png", "color_hex": "#404040" },
+        { "id": "kaak6", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/kaak6.png", "color_hex": "#404040" }
       ]
     }
   ]
