@@ -50,7 +50,7 @@
     },
     {
       "id": "blur_v01",
-      "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/blur_v01.jpg",
+      "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/blur_v01.ppg",
       "color_hex": "#1B2EA1",
       "play_console_id": "free_item"
     }
@@ -214,7 +214,7 @@
       "color_hex": "#1B2EA1",
       "play_console_id": "premium_aura_blur",
       "wallpapers": [
-        { "id": "blur_v01", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/blur_v01.jpg", "color_hex": "#1B2EA1" },
+        { "id": "blur_v01", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/blur_v01.ppg", "color_hex": "#1B2EA1" },
         { "id": "blur_v02", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/blur_v02.png", "color_hex": "#7E23A8" },
         { "id": "blur_v03", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/blur_v03.png", "color_hex": "#C6C11D" },
         { "id": "blur_v04", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/blur_v04.png", "color_hex": "#AB0E8A" },
