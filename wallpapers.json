@@ -53,6 +53,12 @@
       "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/blur_v01.png",
       "color_hex": "#1B2EA1",
       "play_console_id": "free_item"
+    },
+    {
+      "id": "toons_v01",
+      "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/toons_v01.png",
+      "color_hex": "#0D1E16",
+      "play_console_id": "free_item"
     }
   ],
   "premium_packs": [
@@ -224,6 +230,24 @@
         { "id": "blur_v08", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/blur_v08.png", "color_hex": "#3F18B1" },
         { "id": "blur_v09", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/blur_v09.png", "color_hex": "#1BA131" },
         { "id": "blur_v10", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/blur_v10.png", "color_hex": "#D67119" }
+      ]
+    },
+    {
+      "pack_id": "pack_toon_town",
+      "pack_name": "Toon Town",
+      "pack_subtitle": "Nostalgic cartoon wallpapers",
+      "cover_url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/toons_v06.png",
+      "color_hex": "#121212",
+      "play_console_id": "premium_toon_town",
+      "wallpapers": [
+        { "id": "toons_v01", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/toons_v01.png", "color_hex": "#0D1E16" },
+        { "id": "toons_v02", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/toons_v02.png", "color_hex": "#1A1713" },
+        { "id": "toons_v03", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/toons_v03.png", "color_hex": "#08180A" },
+        { "id": "toons_v04", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/toons_v04.png", "color_hex": "#0F1208" },
+        { "id": "toons_v05", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/toons_v05.png", "color_hex": "#0E1509" },
+        { "id": "toons_v06", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/toons_v06.png", "color_hex": "#121212" },
+        { "id": "toons_v07", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/toons_v07.png", "color_hex": "#070312" },
+        { "id": "toons_v08", "url": "https://raw.githubusercontent.com/mohdamaan1/Haptix-Wallpapers/main/toons_v08.png", "color_hex": "#893755" }
       ]
     }
   ]
